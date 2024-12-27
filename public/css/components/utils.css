@@ -1,0 +1,9 @@
+c-float{
+    display: block;
+    /* position: absolute; */
+    padding: 1rem;
+    border-radius: 0.5rem;
+    font-size: 1rem;
+    font-weight: 500;
+    background: white;
+}
